@@ -6,4 +6,4 @@ Features
 Automated News Extraction: Efficiently scrapes the latest news articles from arzdigital.com.
 Real-Time Updates: Posts news directly to a specified Telegram channel in real-time.
 Seamless Integration: Built with BeautifulSoup (bs4) for robust web scraping capabilities.
-Team Collaboration: Developed with the collaborative efforts of our skilled team, including noteworthy contributions from notzimar.
+Team Collaboration: Developed with the collaborative efforts of our skilled team, including noteworthy contributions from arhamclever
